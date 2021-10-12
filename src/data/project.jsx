@@ -7,7 +7,7 @@ export const projects = [
     Desc: "buy and sell your goods",
     github: "https://github.com/oghenekevwe27",
     demo: "https://creekmart.netlify.app/",
-    image: "/images/project1.png",
+    image: "/images/pro1.png",
   },
   {
     id: uuidv4(),
@@ -15,7 +15,7 @@ export const projects = [
     Desc: "buy and sell your goods",
     github: "https://github.com/oghenekevwe27",
     demo: "https://purity-pi.vercel.app/",
-    image: "/images/project8.png",
+    image: "/images/pro8.png",
   },
   
 ];
